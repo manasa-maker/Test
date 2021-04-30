@@ -1,0 +1,12 @@
+[{
+"Account_Id" : 101,
+"Account Name" : "Mark",
+"Branch" : "US"
+},
+{
+"Account_Id" : 102,
+"Account Name" : "Park",
+"Branch" : "UK"
+}
+]
+

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Request>
+  <emp>
+    <empid>101</empid>
+    <ename>Mark</ename>
+    <eloc>Banglore</eloc>
+  </emp>
+  <emp>
+    <empid>201</empid>
+    <ename>Sam</ename>
+    <eloc>Hyderabad</eloc>
+  </emp>
+</Request>

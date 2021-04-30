@@ -1,0 +1,24 @@
+Message-ID: <1353166369.21.1607701847628.JavaMail.LAPTOP-4AGFRNCE$@LAPTOP-4AGFRNCE>
+MIME-Version: 1.0
+Content-Type: multipart/form-data; 
+	boundary="----=_Part_20_919926551.1607701847612"
+
+------=_Part_20_919926551.1607701847612
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: binary
+Content-Disposition: form-data; name="file"; filename=Demo.pdf
+
+{
+"Id" : "1000200300400",
+ "Street" : "Kings Park, 17th Avenue",
+  "State" :  "UK",
+    "AccountNumber" : "CD355119-A",
+     "Website" : "http://www.ioc.com",
+     "Industry" : "Energy",
+      "NumberOfEmployees" : "2400",
+        "Ownership" : "public"
+}
+
+
+
+------=_Part_20_919926551.1607701847612--

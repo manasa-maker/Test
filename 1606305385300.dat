@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html><body><h1 align="center">Emp Details</h1><table border="2" align="center"><tr><th>Name</th><th>Branch</th><th>Age</th><th>City</th></tr><tr><td> Dayank </td><td> Hitech city</td><td>18</td><td> Hyd </td></tr><tr><td>shashank</td><td> Hitech city</td><td>19</td><td> Hyd </td></tr></table></body></html>

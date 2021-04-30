@@ -1,0 +1,16 @@
+<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
+   <xsd:element name = "contact">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name = "name" type = "xsd:string" />
+            <xsd:element name = "company" type = "xsd:string" />
+            <xsd:element name = "phone" type = "xsd:int" />
+			<xsd:element name = "role" type = "xsd:string"/>
+			<xsd:element name = "place" type = "xsd:string"/>
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+</xsd:schema>
+
+
+
